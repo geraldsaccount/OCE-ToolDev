@@ -1,0 +1,76 @@
+D:\VisualStudio\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\VisualStudio\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\VisualStudio\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\VisualStudio\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\VisualStudio\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\VisualStudio\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\VisualStudio\OCE ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\VisualStudio\OCE ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\VisualStudio\OCE ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\VisualStudio\OCE ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\VisualStudio\OCE ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\Calculator.g.cs
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\Calculator.baml
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\VisualStudio\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\Calculator.g.cs
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\Calculator.baml
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette.g.cs
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette.baml
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\TileCreationView.g.cs
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\TileView.g.cs
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\TileCreationView.baml
+C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\TileView.baml
