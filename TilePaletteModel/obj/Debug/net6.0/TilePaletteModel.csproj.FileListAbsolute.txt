@@ -1,0 +1,12 @@
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\bin\Debug\net6.0\TilePaletteModel.deps.json
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\bin\Debug\net6.0\TilePaletteModel.dll
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\bin\Debug\net6.0\TilePaletteModel.pdb
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\obj\Debug\net6.0\TilePaletteModel.csproj.AssemblyReference.cache
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\obj\Debug\net6.0\TilePaletteModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\obj\Debug\net6.0\TilePaletteModel.AssemblyInfoInputs.cache
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\obj\Debug\net6.0\TilePaletteModel.AssemblyInfo.cs
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\obj\Debug\net6.0\TilePaletteModel.csproj.CoreCompileInputs.cache
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\obj\Debug\net6.0\TilePaletteModel.dll
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\obj\Debug\net6.0\refint\TilePaletteModel.dll
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\obj\Debug\net6.0\TilePaletteModel.pdb
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\TilePaletteModel\obj\Debug\net6.0\ref\TilePaletteModel.dll

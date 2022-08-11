@@ -104,3 +104,7 @@ C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj
 C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette\Views\TileCreationView.baml
 C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette\Views\TileUserControl.g.cs
 C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette\Views\TileUserControl.baml
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\bin\Debug\net6.0-windows\TilePaletteModel.dll
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\bin\Debug\net6.0-windows\TilePaletteModel.pdb
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete

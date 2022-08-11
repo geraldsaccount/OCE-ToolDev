@@ -11,35 +11,47 @@
     <Window.DataContext>
         <vm:TilePaletteViewModel/>
     </Window.DataContext>
-    <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="1*"/>
-            <ColumnDefinition Width="1*"/>
-        </Grid.ColumnDefinitions>
-        <ListBox Grid.Column="0" ItemsSource="{Binding Tiles}" SelectedItem="{Binding NewTile}">
-            <ListBox.ItemTemplate>
-                <DataTemplate DataType="Tile">
-                    <StackPanel Orientation="Vertical">
-                        <Label FontSize="16" FontWeight="Bold" Content="{Binding Name}"/>
-                        <StackPanel Orientation="Horizontal">
-                            <Label Content="Is Walkable:"/>
-                            <Label Content="{Binding IsWalkable}"/>
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="New" Command="{Binding NewPalette}"/>
+                <MenuItem Header="Open" Command="{Binding LoadPalette}"/>
+                <Separator/>
+                <MenuItem Header="Save"/>
+                <MenuItem Header="Save As..." Command="{Binding SavePaletteAs}"/>
+            </MenuItem>
+        </Menu>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <ListBox Grid.Column="0" ItemsSource="{Binding Tiles}" SelectedItem="{Binding NewTile}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate DataType="Tile">
+                        <StackPanel Orientation="Vertical">
+                            <Label FontSize="16" FontWeight="Bold" Content="{Binding Name}"/>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Is Walkable:"/>
+                                <Label Content="{Binding IsWalkable}"/>
+                            </StackPanel>
                         </StackPanel>
-                    </StackPanel>
-                </DataTemplate>
-            </ListBox.ItemTemplate>
-            <ListBox.ContextMenu>
-                <ContextMenu>
-                    <MenuItem Header="Create Tile" Command="{Binding RequestTileCommand}"/>
-                    <MenuItem Header="Delete" Command="{Binding DeleteTileCommand}"/>
-                </ContextMenu>
-            </ListBox.ContextMenu>
-        </ListBox>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                <ListBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Create Tile" Command="{Binding RequestTileCommand}"/>
+                        <MenuItem Header="Delete" Command="{Binding DeleteTileCommand}"/>
+                    </ContextMenu>
+                </ListBox.ContextMenu>
+            </ListBox>
 
-        <StackPanel Grid.Column="1" Orientation="Vertical">
-            <local:TileUserControl  DataContext="{Binding NewTile}"/>
-            <Button Content="Create New Tile" Margin="0,5,5,0" Command="{Binding CreateTileCommand}"/>
-            <Button Content="Delete Tile" Margin="0,5,5,0" Command="{Binding DeleteTileCommand}"/>
-        </StackPanel>
-    </Grid>
+            <StackPanel Grid.Column="1" Orientation="Vertical">
+                <local:TileUserControl  DataContext="{Binding NewTile}"/>
+                <Button Content="Create New Tile" Margin="0,5,5,0" Command="{Binding CreateTileCommand}"/>
+                <Button Content="Delete Tile" Margin="0,5,5,0" Command="{Binding DeleteTileCommand}"/>
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+    
 </Window>
