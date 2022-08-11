@@ -10,13 +10,13 @@
     <Compile Update="Calculator\Calculator.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="TilePalette\TileCreationView.xaml.cs">
+    <Compile Update="TilePalette\Views\TileCreationView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="TilePalette\PaletteWindow.xaml.cs">
+    <Compile Update="TilePalette\Views\PaletteWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="TilePalette\TileView.xaml.cs">
+    <Compile Update="TilePalette\Views\TileUserControl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -27,13 +27,13 @@
     <Page Update="FirstWindow\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="TilePalette\TileCreationView.xaml">
+    <Page Update="TilePalette\Views\TileCreationView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="TilePalette\PaletteWindow.xaml">
+    <Page Update="TilePalette\Views\PaletteWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="TilePalette\TileView.xaml">
+    <Page Update="TilePalette\Views\TileUserControl.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
