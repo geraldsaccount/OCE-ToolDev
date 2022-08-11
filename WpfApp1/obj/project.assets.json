@@ -8,24 +8,26 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "/Users/geraldmontufar/.nuget/packages/": {}
+    "C:\\Users\\vicag\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/geraldmontufar/Downloads/OCE ToolDev/WpfApp1/WpfApp1.csproj",
+      "projectUniqueName": "C:\\Users\\vicag\\Desktop\\Geralds SAE Sachen\\geraldsaccount\\OCE-ToolDev\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "/Users/geraldmontufar/Downloads/OCE ToolDev/WpfApp1/WpfApp1.csproj",
-      "packagesPath": "/Users/geraldmontufar/.nuget/packages/",
-      "outputPath": "/Users/geraldmontufar/Downloads/OCE ToolDev/WpfApp1/obj/",
+      "projectPath": "C:\\Users\\vicag\\Desktop\\Geralds SAE Sachen\\geraldsaccount\\OCE-ToolDev\\WpfApp1\\WpfApp1.csproj",
+      "packagesPath": "C:\\Users\\vicag\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vicag\\Desktop\\Geralds SAE Sachen\\geraldsaccount\\OCE-ToolDev\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/geraldmontufar/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\vicag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/geraldmontufar/.dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -7,33 +7,33 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Calculator.xaml.cs">
+    <Compile Update="Calculator\Calculator.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="TileCreationView.xaml.cs">
+    <Compile Update="TilePalette\TileCreationView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="TilePalette.xaml.cs">
+    <Compile Update="TilePalette\PaletteWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="TileView.xaml.cs">
+    <Compile Update="TilePalette\TileView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Calculator.xaml">
+    <Page Update="Calculator\Calculator.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="FirstWindow\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="TileCreationView.xaml">
+    <Page Update="TilePalette\TileCreationView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="TilePalette.xaml">
+    <Page Update="TilePalette\PaletteWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="TileView.xaml">
+    <Page Update="TilePalette\TileView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

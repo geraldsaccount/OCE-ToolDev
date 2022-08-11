@@ -1,0 +1,43 @@
+﻿<Window x:Class="WpfApp1.TilePalette.PaletteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.TilePalette"
+        mc:Ignorable="d"
+        Title="TilePalette" Height="450" Width="800">
+    <Window.DataContext>
+        <local:TilePaletteViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Grid.Column="0" ItemsSource="{Binding Tiles}" SelectedItem="{Binding NewTile}">
+            <ListBox.ItemTemplate>
+                <DataTemplate DataType="Tile">
+                    <StackPanel Orientation="Vertical">
+                        <Label FontSize="16" FontWeight="Bold" Content="{Binding Name}"/>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Is Walkable:"/>
+                            <Label Content="{Binding IsWalkable}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Create Tile" Command="{Binding RequestTileCommand}"/>
+                    <MenuItem Header="Delete" Command="{Binding DeleteTileCommand}"/>
+                </ContextMenu>
+            </ListBox.ContextMenu>
+        </ListBox>
+
+        <StackPanel Grid.Column="1" Orientation="Vertical">
+            <local:TileView  DataContext="{Binding NewTile}"/>
+            <Button Content="Create New Tile" Margin="0,5,5,0" Command="{Binding CreateTileCommand}"/>
+            <Button Content="Delete Tile" Margin="0,5,5,0" Command="{Binding DeleteTileCommand}"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\
 WpfApp1
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\App.xaml
-52102693121
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\App.xaml
+5-908392584
 
-16-248621722
-1941905061893
-Calculator.xaml;MainWindow.xaml;TileCreationView.xaml;TilePalette.xaml;TileView.xaml;
+16578747695
+194-200944676
+Calculator\Calculator.xaml;FirstWindow\MainWindow.xaml;TilePalette\PaletteWindow.xaml;TilePalette\TileCreationView.xaml;TilePalette\TileView.xaml;
 
-True
+False
 

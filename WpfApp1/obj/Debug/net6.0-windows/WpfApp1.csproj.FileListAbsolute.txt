@@ -74,3 +74,33 @@ C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\TileCreation
 C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\TileView.g.cs
 C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\TileCreationView.baml
 C:\Users\Admin\Desktop\OCE ToolDev\WpfApp1\obj\Debug\net6.0-windows\TileView.baml
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette\TileCreationView.g.cs
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette\TileView.g.cs
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette\PaletteWindow.g.cs
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette\PaletteWindow.baml
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette\TileCreationView.baml
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\TilePalette\TileView.baml
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\Calculator\Calculator.g.cs
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\FirstWindow\MainWindow.g.cs
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\Calculator\Calculator.baml
+C:\Users\vicag\Desktop\Geralds SAE Sachen\geraldsaccount\OCE-ToolDev\WpfApp1\obj\Debug\net6.0-windows\FirstWindow\MainWindow.baml
